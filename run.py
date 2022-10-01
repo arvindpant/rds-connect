@@ -1,7 +1,7 @@
 """
 Script to read api and save data into the S3 bucket
 """
-
+#ssh -i ~/path/key.pem ubuntu@external_ip / ec2-user@external_ip
 import pandas as pd
 import requests
 import toml

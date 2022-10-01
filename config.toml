@@ -1,0 +1,6 @@
+[api]
+name='The Muse'
+url='https://www.themuse.com/api/public/jobs?page=50'
+
+[s3]
+bucket='lab3-weclouddata-python'
